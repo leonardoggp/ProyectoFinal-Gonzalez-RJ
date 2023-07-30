@@ -3,7 +3,6 @@
 ## Descripción
 El proyecto consta de un ecommerce realizado con React y Firebase como parte del proyecto final del curso de React de Coderhouse.
 
-[![LinkedId](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dario-arena/) [![My website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://darioarena.com/)
 
 ## DEMO
 ![Demo Gif](public/DaroStore.gif)
